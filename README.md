@@ -1,11 +1,11 @@
 # SystemSoftwareCourseProject
 
-##part1.frt
+## part1.frt
 The file gives a realization of the first part (out of three) of the course project.
 
-##Function list:
+## Function list:
 
-*isOdd;
-*isSimple;
-*strcat;
-*isPrimary.
+* isOdd;
+* isSimple;
+* strcat;
+* isPrimary.
